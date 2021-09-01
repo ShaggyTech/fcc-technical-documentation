@@ -1,0 +1,48 @@
+/* color variables */
+$clr-red-salsa: hsl(359, 94%, 62%);
+$clr-orange-red : hsl(21, 89%, 56%);
+$clr-orange-yellow: hsl(33, 94%, 55%);
+$clr-mango: hsl(20, 94%, 63%);
+$clr-yellow: hsl(42, 93%, 64%);
+$clr-pistachio: hsl(94, 38%, 59%);
+$clr-parrot-green: hsl(162, 43%, 46%);
+$clr-cadet-blue: hsl(178, 30%, 43%);
+$clr-queen-blue: hsl(208, 25%, 45%);
+$clr-night-blue: hsl(198, 61%, 39%);
+
+$clr-primary: hsl(239, 28%, 25%);
+$clr-primary-light: hsl(239, 29%, 45%);
+$clr-primary-dark: hsl(239, 30%, 15%);
+$clr-secondary: hsl(180, 100%, 40%);
+$clr-secondary-light: hsl(180, 100%, 80%);
+
+$clr-white: hsl(0, 25%, 98%);
+$clr-white-dark: hsl(0, 5%, 92%);
+$clr-black: hsl(0, 0%, 10%);
+
+$clr-blue: hsl(205, 99%, 26%);
+$clr-blue-darken1: hsl(205, 98%, 25%);
+$clr-blue-darken2: hsl(205, 98%, 20%);
+$clr-blue-darken3: hsl(206, 97%, 15%);
+
+$clr-light-blue: hsl(198, 43%, 48%);
+$clr-light-blue-lighten1: hsl(198, 44%, 57%);
+$clr-light-blue-lighten2: hsl(197, 51%, 69%);
+$clr-light-blue-lighten3: hsl(195, 54%, 78%);
+$clr-light-blue-darken1: hsl(198, 57%, 40%);
+$clr-light-blue-darken2: hsl(202, 56%, 38%);
+
+$clr-green-light: hsl(154, 100%, 36%);
+$clr-green: hsl(154, 66%, 29%);
+$clr-gray: hsl(204, 28%, 20%);
+$clr-purple: hsl(324, 35%, 40%);
+$clr-purple-dark: hsl(324, 40%, 28%);
+$clr-red: hsl(0, 100%, 32%);
+
+/* Style Variables */
+$border-radius: 0.5rem;
+$border-radius--btn: 1rem;
+$box-shadow: rgba(50, 50, 93, 0.25) 0px 13px 27px -5px,
+  rgba(0, 0, 0, 0.3) 0px 8px 16px -8px;
+$btn-transition: opacity 300ms ease-in-out;
+$input-border: 4px solid transparent;
